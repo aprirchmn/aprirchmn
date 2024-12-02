@@ -1,5 +1,8 @@
 # 💫 About Me:
+<p align="justify">
 I am a 7th semester student of Informatics Engineering Education with a specialization in Software Engineering at Universitas Negeri Jakarta. Have in-depth knowledge in web and application development, including Database (MySQL, PostgreSQL, PHPMyAdmin), Structured Data (PHP, JavaScript), UI/UX Design (Figma, Adobe Photoshop), and Framework (ReactJs, Laravel, Bootstrap). Skilled in analyzing and designing information systems, has a spirit of collaboration, and is ready to contribute to various projects.
+</p>
+
 
 
 ## 🌐 Socials:
